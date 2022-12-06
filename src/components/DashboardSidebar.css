@@ -1,0 +1,37 @@
+.dashboard__sidebarcontainer {
+  padding: 10px;
+  flex: 1.5;
+  background-color: white;
+  box-shadow: 4px -1px 12px -7px rgba(0, 0, 0, 0.34);
+  -webkit-box-shadow: 4px -1px 12px -7px rgba(0, 0, 0, 0.34);
+  -moz-box-shadow: 4px -1px 12px -7px rgba(0, 0, 0, 0.34);
+}
+
+.sidebar__button {
+  margin-left: 10px;
+  border: none;
+  width: 80%;
+  height: 40px;
+  margin-top: 10px;
+  background-color: white;
+  font-weight: normal;
+
+  display: flex;
+  text-align: left;
+}
+
+.sidebar__itemcontainer {
+  padding-left: 20px;
+  display: flex;
+  align-items: center;
+
+  border-radius: 10px;
+}
+
+.sidebar__itemcontainer:hover {
+  background-color: #e6ecff;
+}
+
+.sidebar__itemcontainer:hover > button {
+  background-color: #e6ecff;
+}

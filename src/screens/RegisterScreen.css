@@ -1,0 +1,19 @@
+.register__check {
+  width: 80%;
+  display: flex;
+  align-items: center;
+}
+
+.register__check > p {
+  font-size: 12px;
+}
+
+.register__radio {
+  width: 10%;
+  height: 100%;
+}
+
+.register__text {
+  width: 90%;
+  height: 100%;
+}
