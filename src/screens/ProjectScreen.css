@@ -1,0 +1,6 @@
+.project__container {
+  background-color: #f7f7f7;
+  width: 100%;
+  display: flex;
+  height: calc(100vh - 80px);
+}

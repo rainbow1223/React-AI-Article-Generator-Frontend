@@ -20,6 +20,10 @@
   text-align: left;
 }
 
+.sidebar__button > a {
+  text-decoration: none;
+  color: black;
+}
 .sidebar__itemcontainer {
   padding-left: 20px;
   display: flex;
